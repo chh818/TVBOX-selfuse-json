@@ -1,1 +1,1 @@
-# 自用TVBOX网络json和本地json
+# 自用TVBOX的网络json和本地json
